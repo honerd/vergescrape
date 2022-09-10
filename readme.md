@@ -20,3 +20,11 @@ This is project uses:
 * Requests
 * Bs4
 * in Bs4 BeautifulSoup
+
+## Scheduling
+
+Scheduling this app in heroku or AWS required credit card details. 
+
+A proposed alternative is enclosing the script in a while loop that runs once and then sleeps for the whole day
+
+Have not implemented this but this is an easy fix to implement.
